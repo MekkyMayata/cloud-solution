@@ -3,7 +3,7 @@
 ## Intro
 The following project demonstrates the setup of a secure infrastructure on the cloud. The fictitious company solution uses the wordpress content management system for its main business and a tooling website for the DevOps team.
 
-In order for the solution to be highly available and scalable, cost effective, and secure, the services of a public cloud provider (AWS) was utilized. 
+In order for the solution to be highly available, scalable, cost effective, and secure, the services of a public cloud provider (AWS) was utilized. 
 
 ![AWS-Tooling-Website](https://user-images.githubusercontent.com/54307445/113601638-809ce400-9639-11eb-8763-28cfc0bdb3fc.png)
 
