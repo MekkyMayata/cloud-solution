@@ -11,8 +11,8 @@ In order for the solution to be highly available, scalable, cost effective, and 
 1. An AWS account (with a new sub-account)
 2. A domain name for the fictitious company
 ##### N.B: 
-The above infrastructure is not fully categorised under the free tier ❗❗
-Considering the number of resources to be created, it is quite pertinent to carry out proper tagging.
+- The above infrastructure is not fully categorised under the free tier ❗❗
+- Considering the number of resources to be created, it is quite pertinent to carry out proper tagging.
 
 Below are excerpts from the project implementation:
 
